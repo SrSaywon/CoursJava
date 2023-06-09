@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author totof
+ *
+ */
+module CourJava {
+}
